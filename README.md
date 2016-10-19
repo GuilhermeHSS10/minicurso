@@ -21,37 +21,52 @@ Neste minicurso pretende-se abordar os princípios básicos da linguagem Python 
 
 
 
-# [Parte I](p01.md)
+# [Programação do Minicurso](p01.md)
 
 Introdução à linguagem Python 
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item- [x] 
+- [x] Instalação dos Pacotes Python
+- [x] IDEs que facilitam a depuração do código
+- [x] Falar sobre várias sopas de letrinhas: Git, GitHub, Markdown
+- [x] Introdução ao python utilizando notebooks no Jupyter
+- [x] Hello World?!!
+- [x] Adivinha o Número?
+- [x] Introdução à Computação Científica (Curso GitHub)
+- [x] Método da Bissecção
+- [x] Plotando com Matplotlib
 
-> Referência: 
+> Baseado nos livros (on-line):  
 
-<a href="http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo" target="_blank">Livro Python para Desenvolvedores</a>
+* <a href="http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo" target="_blank">**Livro Python para Desenvolvedores**</a>
 
 
-# [Parte II](p02.md)
+* <a href="http://automatetheboringstuff.com" target="_blank">**Livro Automate Boring Stuff**</a>
 
-Introdução à linguagem Python 
+* <a href="http://www.scipy-lectures.org/intro/index.html" target="_blank">**Python for Science**</a>
 
-> Referência:  <http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo>
+* <a href="http://inventwithpython.com/chapters/" target="_blank">**Livro Invent With Python**</a>
+
+* <a href="http://github.com/thsant/scipy-intro" target="_blank">**Curso Introdução à Computação Científica com Python**</a>
+
+
 
 
 # <img src="https://github.com/favicon.ico" width="48"> GitHub Cursos
 
+### Cursos de Computação Científica
+
+* <a href="http://github.com/thsant/scipy-intro" target="_blank">**Curso Introdução à Computação Científica com Python**</a>
+
+### Outros cursos
+
+* <a href="http://github.com/bokeh/bokeh-notebooks.git" target="_blank">**Bokeh**</a>
+
+* <a href="http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">**Referência de como escrever em MarkDown**</a>
+
+* <a href="http://dillinger.io" target="_blank">**Editor On-line em MarkDown**</a>
 
 
-* Bokeh <https://github.com/bokeh/bokeh-notebooks.git>
 
-
-* **Referência de como escrever em MarkDown** <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-
-* Plataforma Web para escrever textos MarkDown: <http://dillinger.io/>
 
 
 # Galeria de Notebooks Online
@@ -61,17 +76,29 @@ Introdução à linguagem Python
 # Vídeos Tutoriais
 
 
-#### Tutorial sobre o Jupiter
+* Vídeo sobre o Jupyter (english)
  
- [![Everything Is AWESOME](http://img.youtube.com/vi/Rc4JQWowG5I/0.jpg)](https://www.youtube.com/watch?v=Rc4JQWowG5I "Everything Is AWESOME")
+[<img src="http://img.youtube.com/vi/Rc4JQWowG5I/0.jpg" width="100">](https://www.youtube.com/watch?v=Rc4JQWowG5I "Everything Is AWESOME")
+
+[<img src="http:///img.youtube.com/vi/Q2f9W7KDwjA/0.jpg" width="100">](https://www.youtube.com/watch?v=U_lU7Y6HcDk&list=PLicjLNqVtKnwXCq99mWXwGtCNGKvKlytf&index=21 "Prof. Pier")
+
+[<img src="http:///img.youtube.com/vi/tbx2rMJc4n4/0.jpg" width="100">](https://www.youtube.com/watch?v=tbx2rMJc4n4 "Instalando Anaconda")
+
 
 # Referências
 
+### Artigos:
+
+* <a href="http://www.toptal.com/python/por-que-h-tantos-pythons/pt" target="_blank">**Por que há tantos Pythons?**</a>
+
+
 ### Softwares:
 
-* Editor de MarkDown: <http://markdownedit.com/>
+* <a href="http://markdownedit.com" target="_blank">**Software MarkdownEdit**</a>
 
 * PyCharm Community Edition (Free) - <https://www.jetbrains.com/pycharm/download/#section=windows>
+
+* <a href="http://winpython.github.io" target="_blank">**WinPython - Python científico que não é portável**</a>
 
 
 ### Pacotes Python
@@ -82,12 +109,11 @@ Introdução à linguagem Python
 
 ### Livros (on-line):
 
-
-* <http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo>
+* <a href="http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo" target="_blank">Livro Python para Desenvolvedores</a>
 
 ### Documentação Oficial Python 3:
 
-* <https://docs.python.org/3/tutorial/>
+* <a href="https://docs.python.org/3/tutorial/" target="_blank">Tutorial Oficial do Python 3</a>
 
 
 #### Aprenda Mais
@@ -96,15 +122,16 @@ Introdução à linguagem Python
 
 # Agradecimentos
 
-À comissão da XXVIII Semana da Matemática
+À toda comissão da XXVIII Semana da Matemática do IBILCE
 
-Em especial à Profa. Dra. Heloisa Helena Silva
+Em especial à Profa. Dra. Heloisa Helena Marino Silva
 
 > Aos mestres que sempre me inspiraram (ordem alfabética):
 > * Alagacone Sri Ranga
 > * Cleonice de Fátima Bracciali
 > * Dimitar Dimitrov Kolev
 > * Eurípides Alves da Silva
+> * Maurílio Boaventura
 > * Sergio Luis Lopes Verardi
 > * Wilson Maurício Tadini
 
