@@ -30,7 +30,9 @@ Introdução à linguagem Python
 - [x] this is a complete item
 - [ ] this is an incomplete item- [x] 
 
-> Referência:  <http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo>
+> Referência: 
+
+<a href="http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo" target="_blank">Livro Python para Desenvolvedores</a>
 
 
 # [Parte II](p02.md)
@@ -42,25 +44,26 @@ Introdução à linguagem Python
 
 # <img src="https://github.com/favicon.ico" width="48"> GitHub Cursos
 
-<https://docs.python.org/3/tutorial/>
+
 
 * Bokeh <https://github.com/bokeh/bokeh-notebooks.git>
 
 
 * **Referência de como escrever em MarkDown** <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
+* Plataforma Web para escrever textos MarkDown: <http://dillinger.io/>
+
 
 # Galeria de Notebooks Online
 
-* IPython e Jupyter: <http://nb.bianp.net/sort/views/>
-
+* <a href="http://nb.bianp.net/sort/views/" target="_blank">Galeria de IPython e Jupyter</a>
 
 # Vídeos Tutoriais
 
 
 #### Tutorial sobre o Jupiter
-
- [![Jupyter](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Rc4JQWowG5I) 
+ 
+ [![Everything Is AWESOME](http://img.youtube.com/vi/Rc4JQWowG5I/0.jpg)](https://www.youtube.com/watch?v=Rc4JQWowG5I "Everything Is AWESOME")
 
 # Referências
 
