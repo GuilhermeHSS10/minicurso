@@ -25,6 +25,7 @@ try:
     import argparse
     import matplotlib
     import numpy
+    import logging
 
 except ImportError as e:
     exc_type, exc_value, exc_traceback = sys.exc_info()
@@ -64,6 +65,20 @@ def main():
     # recebendo os parametros
     # Se nada foi alterado - vieram os parametros padrao (default)!
     lstArgs = parametros_prompt()
+
+    # --------------------------------------------------------------------------
+    #  Cria um arquivo de Log que serao impressas
+    #  Mensagens de Debug
+    ##--------------------------------------------------------------------------
+    strFileName_Log = dic_param_valor['arq_log'] ## Lido Nome do Arquivo no XML
+    logger = init_log(strFileName_Log)
+    if printDebug == 1:
+      logger.info(" **** Rodando Check VE ****")
+
+    strDirEntrada = "Entrada"
+    strDirSaida = "Saida"
+    init_dirs(strDirEntrada, strDirSaida)
+
 
     int_num = lstArgs.num_fornecido
     print_debug = lstArgs.flag_imprimir
@@ -140,6 +155,31 @@ def parametros_prompt():
 
     return lstArgs
 
+  ##@fim do metodo
+  ##----------------------------------------------------------------------------
+
+
+##------------------------------------------------------------------------------
+## @@ Inicializa o Escritor de Log
+##------------------------------------------------------------------------------
+def init_log(strLogFileName):
+  logger = logging.getLogger("bissec")
+  logger.setLevel(logging.INFO)
+  fh = logging.FileHandler(strLogFileName)
+  formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+  fh.setFormatter(formatter)
+  logger.addHandler(fh)
+  logger.info("Iniciando o Projeto")
+  return logger
+  ##Exemplo de como usar o Log
+  ##  logger.debug('debug message')
+  ##  logger.info('info message')
+  ##  logger.warn('warn message')
+  ##  logger.error('error message')
+  ##  logger.critical('critical message')
+  ##  logging.debug('This message should go to the log file')
+  ##  logging.info('So should this')
+  ##  logging.warning('And this, too')
   ##@fim do metodo
   ##----------------------------------------------------------------------------
 
