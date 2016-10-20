@@ -80,7 +80,7 @@ Introdução à linguagem Python
  
 [<img src="http://img.youtube.com/vi/Rc4JQWowG5I/0.jpg" width="100">](https://www.youtube.com/watch?v=Rc4JQWowG5I "Everything Is AWESOME")
 
-[<img src="http:///img.youtube.com/vi/Q2f9W7KDwjA/0.jpg" width="100">](https://www.youtube.com/watch?v=U_lU7Y6HcDk&list=PLicjLNqVtKnwXCq99mWXwGtCNGKvKlytf&index=21 "Prof. Pier")
+[<img src="http:///img.youtube.com/vi/U_lU7Y6HcDk/0.jpg" width="100">](https://www.youtube.com/watch?v=U_lU7Y6HcDk&list=PLicjLNqVtKnwXCq99mWXwGtCNGKvKlytf&index=21 "Prof. Pier")
 
 [<img src="http:///img.youtube.com/vi/tbx2rMJc4n4/0.jpg" width="100">](https://www.youtube.com/watch?v=tbx2rMJc4n4 "Instalando Anaconda")
 
