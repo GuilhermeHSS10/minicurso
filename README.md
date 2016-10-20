@@ -14,31 +14,22 @@ Neste minicurso pretende-se abordar os princípios básicos da linguagem Python 
 
 
 **Marcelo Facio Palin**
-## Ampere Conultoria
-<img src="http://www.ampereconsultoria.com.br/static/site/images/logo_full.gif" width="100">
 
 #### [Currículo Lattes](<http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4778375D9>)
 
+<img src="http://www.ampereconsultoria.com.br/static/site/images/logo_full.gif" width="100">
 
 
-# [Programação do Minicurso](p01.md)
+## [Apresentação Inicial](video_motivacional.mp4)
 
-Introdução à linguagem Python 
+## [Vídeo #DesistirJamais](video_motivacional.mp4)
 
-- [x] Instalação dos Pacotes Python
-- [x] IDEs que facilitam a depuração do código
-- [x] Falar sobre várias sopas de letrinhas: Git, GitHub, Markdown
-- [x] Introdução ao python utilizando notebooks no Jupyter
-- [x] Hello World?!!
-- [x] Adivinha o Número?
-- [x] Introdução à Computação Científica (Curso GitHub)
-- [x] Método da Bissecção
-- [x] Plotando com Matplotlib
+## [Minicurso - Iniciar](p01.md)
 
-> Baseado nos livros (on-line):  
+
+> Bibliografia consultada - Compartilhada (on-line):  
 
 * <a href="http://ricardoduarte.github.io/python-para-desenvolvedores/#conteudo" target="_blank">**Livro Python para Desenvolvedores**</a>
-
 
 * <a href="http://automatetheboringstuff.com" target="_blank">**Livro Automate Boring Stuff**</a>
 
@@ -51,21 +42,13 @@ Introdução à linguagem Python
 
 
 
+
+
 # <img src="https://github.com/favicon.ico" width="48"> GitHub Cursos
 
 ### Cursos de Computação Científica
 
 * <a href="http://github.com/thsant/scipy-intro" target="_blank">**Curso Introdução à Computação Científica com Python**</a>
-
-### Outros cursos
-
-* <a href="http://github.com/bokeh/bokeh-notebooks.git" target="_blank">**Bokeh**</a>
-
-* <a href="http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">**Referência de como escrever em MarkDown**</a>
-
-* <a href="http://dillinger.io" target="_blank">**Editor On-line em MarkDown**</a>
-
-
 
 
 
@@ -80,9 +63,9 @@ Introdução à linguagem Python
  
 [<img src="http://img.youtube.com/vi/Rc4JQWowG5I/0.jpg" width="100">](https://www.youtube.com/watch?v=Rc4JQWowG5I "Everything Is AWESOME")
 
-[<img src="http:///img.youtube.com/vi/Q2f9W7KDwjA/0.jpg" width="100">](https://www.youtube.com/watch?v=U_lU7Y6HcDk&list=PLicjLNqVtKnwXCq99mWXwGtCNGKvKlytf&index=21 "Prof. Pier")
+[<img src="http://img.youtube.com/vi/Q2f9W7KDwjA/0.jpg" width="100">](https://www.youtube.com/watch?v=U_lU7Y6HcDk&list=PLicjLNqVtKnwXCq99mWXwGtCNGKvKlytf&index=21 "Prof. Pier")
 
-[<img src="http:///img.youtube.com/vi/tbx2rMJc4n4/0.jpg" width="100">](https://www.youtube.com/watch?v=tbx2rMJc4n4 "Instalando Anaconda")
+[<img src="http://img.youtube.com/vi/tbx2rMJc4n4/0.jpg" width="100">](https://www.youtube.com/watch?v=tbx2rMJc4n4 "Instalando Anaconda")
 
 
 # Referências
@@ -100,8 +83,14 @@ Introdução à linguagem Python
 
 * <a href="http://winpython.github.io" target="_blank">**WinPython - Python científico que não é portável**</a>
 
+* <a href="http://notepad-plus-plus.org/" target="_blank">**Notepad++**</a>
 
-### Pacotes Python
+* <a href="http://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">**Referência de como escrever em MarkDown**</a>
+
+* <a href="http://dillinger.io" target="_blank">**Editor On-line em MarkDown**</a>
+
+
+### Pacotes Python Importantes
 
 * Bokeh in IPython Notebook <https://github.com/bokeh/bokeh-notebooks>
 * <https://github.com/bokeh/bokeh-notebooks/blob/master/quickstart/quickstart.ipynb>

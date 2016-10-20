@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 #-------------------------------------------------------------------------------
 #
-# Description: Hello World!
-#  - vs 3 - Facilitando a execução do código passando parâmetros no momento
-#  da execução
+# Description: Leitura de um arquivo de dados gigante, que nenhum editor consegue
+# ler.
+# Estratégia: abrir o arquivo e ler linha a linha
 #
 # Author:   @Palin
 #
@@ -55,7 +55,7 @@ def blocks(files, size=65536):
 # Os comentários servem depois para gerar um HTML da documentação.
 # Em geral a documentação do código é gerada pelo pacote Sphinx
 #
-# Objetivo: pegar o nome passado pelo prompt de comando
+# Objetivo: Leitura de um Arquivo Gigante
 #
 # ----------------------
 def main():
