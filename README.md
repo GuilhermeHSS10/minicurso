@@ -19,10 +19,8 @@ Neste minicurso pretende-se abordar os princípios básicos da linguagem Python 
 
 <img src="http://www.ampereconsultoria.com.br/static/site/images/logo_full.gif" width="100">
 
+[<img src="http://img.youtube.com/vi/7L8SNUFxkzw/0.jpg" width="100">](https://youtu.be/7L8SNUFxkzw "#Desistir Jamais")
 
-## [Apresentação Inicial](video_motivacional.mp4)
-
-## [Vídeo #DesistirJamais](video_motivacional.mp4)
 
 ## [Minicurso - Iniciar](p01.md)
 
@@ -38,9 +36,6 @@ Neste minicurso pretende-se abordar os princípios básicos da linguagem Python 
 * <a href="http://inventwithpython.com/chapters/" target="_blank">**Livro Invent With Python**</a>
 
 * <a href="http://github.com/thsant/scipy-intro" target="_blank">**Curso Introdução à Computação Científica com Python**</a>
-
-
-
 
 
 
