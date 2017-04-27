@@ -22,7 +22,7 @@ Neste minicurso pretende-se abordar os princípios básicos da linguagem Python 
 [<img src="http://img.youtube.com/vi/7L8SNUFxkzw/0.jpg" width="100">](https://youtu.be/7L8SNUFxkzw "#Desistir Jamais")
 
 
-## [Minicurso - Iniciar](p01.md)
+## [Minicurso - Iniciar](minicurso/parte01.md)
 
 
 > Bibliografia consultada - Compartilhada (on-line):  
